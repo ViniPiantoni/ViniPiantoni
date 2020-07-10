@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hellow! 👋
 
+Estudante apaixonado por tecnologia, cursando Técnico de Desenvolvimento de Sistemas na instituição SENAI.💻
+
+### Links Úteis:
+[👉 Linkedin](https://www.linkedin.com/in/vinicius-piantoni-328339186)
+
+[👉 Email](vinicius4447@gmail.com)
 <!--
 **ViniPiantoni/ViniPiantoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
