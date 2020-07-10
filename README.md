@@ -5,7 +5,7 @@ Estudante apaixonado por tecnologia, cursando Técnico de Desenvolvimento de Sis
 ### Informações Úteis:
 [👉 Linkedin](https://www.linkedin.com/in/vinicius-piantoni-328339186)
 
-[👉 vinicius4447@gmail.com]()
+ 👉 vinicius4447@gmail.com
 <!--
 **ViniPiantoni/ViniPiantoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
