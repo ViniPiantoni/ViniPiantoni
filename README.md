@@ -1,11 +1,16 @@
-### Hellow! 👋
+# Vinicius Piantoni 👨‍💻
 
-Estudante apaixonado por tecnologia, cursando Técnico de Desenvolvimento de Sistemas na instituição SENAI💻
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/ViniPiantoni)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/vinicius-piantoni-328339186)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:vinicius4447@gmail.com)
 
-### Informações Úteis:
-[👉 Linkedin](https://www.linkedin.com/in/vinicius-piantoni-328339186)
+### Hellooo! 👋 Welcome to my profile
 
- 👉 vinicius4447@gmail.com
+My name is Vinicius and I'm a technology student at SENAI.
+
+ - ❤️ Passionate about technology
+ - ⚡ JavaScript Developer
+
 <!--
 **ViniPiantoni/ViniPiantoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
