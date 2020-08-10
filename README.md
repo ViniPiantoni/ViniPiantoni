@@ -6,10 +6,11 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Vinicius and I'm a technology student at SENAI.
+My name is Vinicius Piantoni, I am an intern and a technology student.
 
  - ❤️ Passionate about technology
  - ⚡ JavaScript Developer
+ - 💻 Working at [IMA] (https://ima.sp.gov.br/institucional/quem-somos)
 
 <!--
 **ViniPiantoni/ViniPiantoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
